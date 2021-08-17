@@ -1,4 +1,4 @@
-# BCA-API
+# BCA-API-JAVA
 Framework untuk koneksi dengan BCA-API
 
 # Pembuatan KEYs dan CREDENTIALS
